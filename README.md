@@ -1,8 +1,8 @@
 # Hi, I’m Lê Quốc Huy! 
-👨 I'm Le Quoc Huy, studying Web Programming
+👨 I'm Nguyễn Trường Thịnh, studying Web Programming
 
 ```typescript
-class HuyDev {
+class Thinhnt {
   constructor() {
     this.class = 17303;
     this.age = '2003';
