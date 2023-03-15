@@ -1,4 +1,4 @@
-# Hi, I’m Lê Quốc Huy! 
+# Hi, I’m Nguyễn Trường Thịnh! 
 👨 I'm Nguyễn Trường Thịnh, studying Web Programming
 
 ```typescript
